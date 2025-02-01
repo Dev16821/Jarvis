@@ -1,5 +1,4 @@
 # Basic_Jarvis
-Here’s a structured `README.md` for your project:
 
 ```markdown
 # Jarvis - Voice Assistant
@@ -42,13 +41,6 @@ Jarvis is a Python-based voice assistant designed to perform various tasks throu
 1. Run the script:
    ```bash
    python jarvis.py
-   ```
-2. Follow the voice prompts to interact with Jarvis.
-
-## Configuration
-- Update your email credentials in the `sendEmail` function to enable email functionality:
-  ```python
-  server.login('your_email@gmail.com', 'your_password')
   ```
 
 ## License
